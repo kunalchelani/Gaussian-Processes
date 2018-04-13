@@ -1,1 +1,1 @@
-# ML-Project
+This is the repository for course project on Gaussian Processes. The repository will eventually contain toy experiments for Bayesian Linear Regression, Bayesian Logistic Regression, Gaussian Processes Regression and Gaussian Processes Classification.
